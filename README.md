@@ -1,28 +1,36 @@
-# Ex04 Places Around Me
+# Ex.08 Design of Interactive Image Gallery
+
 ## Date: 10-10-2025
 
 ## AIM
-To develop a website to display details about the places around my house.
+To design a web application for an inteactive image gallery with minimum five images.
+
 
 ## DESIGN STEPS
 
 ### STEP 1
-Create a Django admin interface.
+Clone the github repository and create Django admin interface.
+
 
 ### STEP 2
-Download your city map from Google.
+Change settings.py file to allow request from all hosts.
+
 
 ### STEP 3
-Using ```<map>``` tag name the map.
+Use CSS for positioning and styling.
+
 
 ### STEP 4
-Create clickable regions in the image using ```<area>``` tag.
+Write JavaScript program for implementing interactivity.
+
 
 ### STEP 5
-Write HTML programs for all the regions identified.
+Validate the HTML and CSS code.
+
 
 ### STEP 6
-Execute the programs and publish them.
+Publish the website in the given URL.
+
 
 ## CODE
 gallery.html
